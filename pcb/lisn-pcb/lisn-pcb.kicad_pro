@@ -625,7 +625,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "lisn-gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
