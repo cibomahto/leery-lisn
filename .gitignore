@@ -1,2 +1,4 @@
 *.sch-bak
 *.zip
+*.log
+*.lck
