@@ -6396,7 +6396,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "1M"
 			(at 144.018 59.563 0)
 			(effects
 				(font
@@ -6432,7 +6432,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ROX1SJ47K"
+		(property "MPN" " ROX1SJ1M0"
 			(at 142.24 58.42 0)
 			(effects
 				(font
@@ -6450,7 +6450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number 1" "ROX1SJ47K"
+		(property "Manufacturer Part Number 1" " ROX1SJ1M0"
 			(at 142.24 58.42 0)
 			(effects
 				(font
@@ -6459,7 +6459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "1.66"
+		(property "Price" ".2"
 			(at 142.24 58.42 0)
 			(effects
 				(font
@@ -6477,7 +6477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part Number 1" " 279-ROX1SJ47K"
+		(property "Supplier Part Number 1" " 279-ROX1SJ1M0"
 			(at 142.24 58.42 0)
 			(effects
 				(font
@@ -6519,7 +6519,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "1M"
 			(at 199.898 59.563 0)
 			(effects
 				(font
@@ -6555,7 +6555,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ROX1SJ47K"
+		(property "MPN" "ROX1SJ1M0"
 			(at 198.12 58.42 0)
 			(effects
 				(font
@@ -6573,7 +6573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number 1" "ROX1SJ47K"
+		(property "Manufacturer Part Number 1" "ROX1SJ1M0"
 			(at 198.12 58.42 0)
 			(effects
 				(font
@@ -6582,7 +6582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "1.66"
+		(property "Price" ".2"
 			(at 198.12 58.42 0)
 			(effects
 				(font
@@ -6600,7 +6600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part Number 1" " 279-ROX1SJ47K"
+		(property "Supplier Part Number 1" "279-ROX1SJ1M0"
 			(at 198.12 58.42 0)
 			(effects
 				(font
